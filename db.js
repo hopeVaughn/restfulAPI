@@ -9,6 +9,7 @@ const pool = new Pool({
 });
 
 module.exports = pool;
+
 // create
 // INSERT INTO todo (description) VALUES ("wash car")
 
